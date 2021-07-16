@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1596753465 source:c:\users\rafael franco\desktop\programming\spacexgame\main.cpp
+	<iostream>
+	<allegro.h>
+	"iniciaAllegro.h"
+	"myObjects.h"
+
+1595547136 c:\users\rafael franco\desktop\programming\spacexgame\modelo.h
+	"allegro.h"
+
+1595167197 c:\users\rafael franco\desktop\programming\spacexgame\include\ball.h
+
+1595167118 source:c:\users\rafael franco\desktop\programming\spacexgame\src\ball.cpp
+	"ball.h"
+	<iostream>
+
+1595167307 c:\users\rafael franco\desktop\programming\spacexgame\ball.h
+
+1595167418 source:c:\users\rafael franco\desktop\programming\spacexgame\ball.cpp
+	<iostream>
+	"ball.h"
+
+1595167622 c:\users\rafael franco\desktop\programming\spacexgame\nave.h
+
+1595167707 source:c:\users\rafael franco\desktop\programming\spacexgame\nave.cpp
+	"nave.h"
+	<iostream>
+
+1595204494 source:c:\users\rafael franco\desktop\programming\spacexgame\modelo.cpp
+	"modelo.h"
+	<iostream>
+
+1595770391 c:\users\rafael franco\desktop\programming\spacexgame\vista.h
+	<allegro.h>
+
+1596754781 source:c:\users\rafael franco\desktop\programming\spacexgame\vista.cpp
+	<iostream>
+	"myObjects.h"
+
+1595714902 source:c:\users\rafael franco\desktop\programming\spacexgame\iniciaallegro.cpp
+	"iniciaAllegro.h"
+	<allegro.h>
+
+1595188588 c:\users\rafael franco\desktop\programming\spacexgame\iniciaallegro.h
+
+1596753465 c:\users\rafael franco\desktop\programming\spacexgame\myobjects.h
+	"allegro.h"
+
+1596753980 source:c:\users\rafael franco\desktop\programming\spacexgame\myobjects.cpp
+	"myObjects.h"
+	<iostream>
+
+1595714902 source:c:\users\rafael franco\desktop\programming\programacion 2\c++\spacexgame\iniciaallegro.cpp
+	"iniciaAllegro.h"
+	<allegro.h>
+
+1595188588 c:\users\rafael franco\desktop\programming\programacion 2\c++\spacexgame\iniciaallegro.h
+
+1596753465 source:c:\users\rafael franco\desktop\programming\programacion 2\c++\spacexgame\main.cpp
+	<iostream>
+	<allegro.h>
+	"iniciaAllegro.h"
+	"myObjects.h"
+
+1596753465 c:\users\rafael franco\desktop\programming\programacion 2\c++\spacexgame\myobjects.h
+	"allegro.h"
+
+1596753980 source:c:\users\rafael franco\desktop\programming\programacion 2\c++\spacexgame\myobjects.cpp
+	"myObjects.h"
+	<iostream>
+
+1596754781 source:c:\users\rafael franco\desktop\programming\programacion 2\c++\spacexgame\vista.cpp
+	<iostream>
+	"myObjects.h"
+

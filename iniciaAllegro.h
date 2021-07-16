@@ -1,0 +1,7 @@
+#ifndef INICIAALLEGRO_H_INCLUDED
+#define INICIAALLEGRO_H_INCLUDED
+
+void inicia_allegro(int ANCHO_ , int ALTO_);
+
+
+#endif // INICIAALLEGRO_H_INCLUDED
